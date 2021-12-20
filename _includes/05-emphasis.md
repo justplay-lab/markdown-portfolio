@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*a billion dallor*
+_a billion dallor_
+
+**a billion dallor**
+__a billion dallor__
+
+_You **can** combine them_
